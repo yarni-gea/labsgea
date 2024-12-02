@@ -1,32 +1,42 @@
 # TUGAS PRAKTIKUM 6
 
-lowchart
+# flowchart
 
+![image](https://github.com/user-attachments/assets/f0822bc0-dd13-4a08-871a-579c031c83d1)
 
 input dan outpu dari Praktikum 6
+
 1. input tambah data
 
+2. ![image](https://github.com/user-attachments/assets/5e79316b-90c5-4e2b-9be8-4a265913a165)
 
 outpu tambah data
 
+![image](https://github.com/user-attachments/assets/1fd9012f-9325-4fc0-8515-e276885001f1)
 
 2. input tampilkan data
 
+3. ![image](https://github.com/user-attachments/assets/8fed444f-595a-481b-a104-94b35bddf646)
 
 output tampilkan data
 
+![image](https://github.com/user-attachments/assets/4e75b105-c2ec-4755-b3bd-e16da3c04f35)
 
 3. input hapus data
 
+![image](https://github.com/user-attachments/assets/13c8bc3f-b7c1-408a-867b-599031bfc119)
 
 output hapus data
 
+![image](https://github.com/user-attachments/assets/b331e85c-aefb-43f1-9131-02e2762104b1)
 
 4. input ubah data
 
+![image](https://github.com/user-attachments/assets/b012b90d-ffb1-466e-bd80-07b809f31452)
 
 output uba data
 
+![image](https://github.com/user-attachments/assets/2e730fa6-280a-435c-8b0b-718017760019)
 
 Penjelasan Algoritma:
 Program ini merupakan aplikasi manajemen data mahasiswa dengan beberapa fungsi utama:
